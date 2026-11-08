@@ -1,4 +1,4 @@
-# AgriLab Africa Mobile Application
+# AgriLab Africa Mobile Website
 
 ## Overview
 The mobile application will support Android and iOS devices.
@@ -15,4 +15,4 @@ Flutter and Dart.
 6. Agricultural marketplace.
 
 ## Supported Languages
-English, French, Portuguese, Arabic and Swahili.
+English, French, Portuguese, Arabic and Swahili.                                                                                                                                                                                            19  purpose                                                                                                                To make agriculture information and services accessible through computer ,tablet and browsers                                                                 
